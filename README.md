@@ -116,7 +116,7 @@ def train_model(model, train_loader, num_epochs=3):
 
 ## Classification Report
 
-<img width="718" height="608" alt="image" src="https://github.com/user-attachments/assets/699da897-be1a-422f-9392-b9bfa1f5232d" />
+<img width="805" height="520" alt="image" src="https://github.com/user-attachments/assets/9c8a922e-0c67-47dc-9e37-8c3159724fa6" />
 
 
 ### New Sample Data Prediction
